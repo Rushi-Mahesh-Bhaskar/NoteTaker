@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: todo-management-spring-boot
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Deepak
+Implementation-Vendor-Id: net.guides.springboot
+Build-Jdk: 1.8.0_211
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/todo-management-spring-boot
+Created-By: Maven Integration for Eclipse
+
